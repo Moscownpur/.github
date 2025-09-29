@@ -1,11 +1,4 @@
-## Hi there 👋
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guideline# MOSCOWNPUR STUDIOS
+# MOSCOWNPUR STUDIOS
 ## How It Really Started
 
 Picture this: a snowy Moscow night colliding with a sweaty Delhi afternoon. That’s basically how we were born — not in geography, but in vibe.
@@ -35,8 +28,3 @@ Never let stories feel boring.
 Never let creators feel alone.
 Always let chaos have a seat at the table.
 Moscownpur Studios is less “company” and more “impossible bar in a city that doesn’t exist.” You walk in, order a story, and end up running the place.
-s - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
